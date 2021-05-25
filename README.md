@@ -4,7 +4,9 @@
 - `git status`: gives you the status
 - `git add <FILE>`: adds <FILE> to the staging area
 - `git commit`: commits files from staging area
-   - `git commit -m "MESSAGE"`: commit without opening editor
+    - `git commit -m "MESSAGE"`: commit without opening editor
 - `git log`: show you commit history
-   - `git log --oneline`: show short commit history
+    - `git log --oneline`: show short commit history
+
+- `git diff`: gives you the difference
 
