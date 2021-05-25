@@ -1,4 +1,4 @@
-# 2021-05-25 git
+# 2021-05-25 Git Basics
 
 - `git init`: initialize git repo in current location
 - `git status`: gives you the status
@@ -20,13 +20,13 @@
 - `.gitignore`: file that pattern matches files to ignore
 - `.gitkeep`: convention to keep a empty folder
 
-## remotes
+## Remotes
 
 - `git remote add <NAME> <URL>`: <NAME=origin> point to the remote
 - `git push <WHERE> <WHAT>`: local repo -> remote
 - `git pull <where> <what>`: remote -> local repo
 
-## branches
+## Branches
     
 How to fix master -> main
 
